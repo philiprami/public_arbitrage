@@ -1,0 +1,116 @@
+{
+  "siteA" :
+    {
+      "nba" :
+        {
+          "atlanta-hawks" : "ATL",
+          "brooklyn-nets" : "BKN",
+          "boston-celtics" : "BOS",
+          "charlotte-hornets" : "CHA",
+          "chicago-bulls" : "CHI",
+          "cleveland-cavaliers" : "CLE",
+          "dallas-mavericks" : "DAL",
+          "denver-nuggets" : "DEN",
+          "detroit-pistons" : "DET",
+          "golden-state-warriors" : "GSW",
+          "houston-rockets" : "HOU",
+          "indiana-pacers" : "IND",
+          "los-angeles-clippers" : "LAC",
+          "los-angeles-lakers" : "LAL",
+          "memphis-grizzlies" : "MEM",
+          "miami-heat" : "MIA",
+          "milwaukee-bucks" : "MIL",
+          "minnesota-timberwolves" : "MIN",
+          "new-orleans-pelicans" : "NOP",
+          "new-york-knicks" : "NYK",
+          "oklahoma-city-thunder" : "OKC",
+          "orlando-magic" : "ORL",
+          "philadelphia-76ers" : "PHI",
+          "phoenix-suns" : "PHX",
+          "portland-trail-blazers" : "POR",
+          "sacramento-kings" : "SAC",
+          "san-antonio-spurs" : "SAS",
+          "toronto-raptors" : "TOR",
+          "utah-jazz" : "UTA",
+          "washington-wizards" : "WAS"
+       }
+    },
+  "siteB" :
+    {
+      "nba" :
+        {
+          "Atlanta Hawks" : "ATL",
+          "Brooklyn Nets" : "BKN",
+          "Boston Celtics" : "BOS",
+          "Charlotte Hornets" : "CHA",
+          "Chicago Bulls" : "CHI",
+          "Cleveland Cavaliers" : "CLE",
+          "Dallas Mavericks" : "DAL",
+          "Denver Nuggets" : "DEN",
+          "Detroit Pistons" : "DET",
+          "Golden State Warriors" : "GSW",
+          "Houston Rockets" : "HOU",
+          "Indiana Pacers" : "IND",
+          "Los Angeles Clippers" : "LAC",
+          "Los Angeles Lakers" : "LAL",
+          "Memphis Grizzlies" : "MEM",
+          "Miami Heat" : "MIA",
+          "Milwaukee Bucks" : "MIL",
+          "Minnesota Timberwolves" : "MIN",
+          "New Orleans Pelicans" : "NOP",
+          "New York Knicks" : "NYK",
+          "Oklahoma City Thunder" : "OKC",
+          "Orlando Magic" : "ORL",
+          "Philadelphia 76ers" : "PHI",
+          "Phoenix Suns" : "PHX",
+          "Portland Trail Blazers" : "POR",
+          "Sacramento Kings" : "SAC",
+          "San Antonio Spurs" : "SAS",
+          "Toronto Raptors" : "TOR",
+          "Utah Jazz" : "UTA",
+          "Washington Wizards" : "WAS"
+        }
+    },
+  "siteC" :
+    {
+      "nba" :
+        {
+          "ATL" : "ATL",
+          "BRK" : "BKN",
+          "BOS" : "BOS",
+          "CHA" : "CHA",
+          "CHI" : "CHI",
+          "CLE" : "CLE",
+          "DAL" : "DAL",
+          "DEN" : "DEN",
+          "DET" : "DET",
+          "GS" : "GSW",
+          "HOU" : "HOU",
+          "IND" : "IND",
+          "LAC" : "LAC",
+          "LAL" : "LAL",
+          "MEM" : "MEM",
+          "MIA" : "MIA",
+          "MIL" : "MIL",
+          "MIN" : "MIN",
+          "NO" : "NOP",
+          "NY" : "NYK",
+          "OKC" : "OKC",
+          "ORL" : "ORL",
+          "PHI" : "PHI",
+          "PHO" : "PHX",
+          "POR" : "POR",
+          "SAC" : "SAC",
+          "SA" : "SAS",
+          "TOR" : "TOR",
+          "UTA" : "UTA",
+          "WAS" : "WAS"
+        },
+      "nfl" : {
+          "BUFFALO BILLS" : "BUFF",
+          "PITTSBURGH STEELERS" : "PIT",
+          "SAN FRANCISCO 49ERS" : "SF",
+          "WASHINGTON FOOTBALL TEAM" : "WAS"
+      }
+  }
+}

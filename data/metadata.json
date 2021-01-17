@@ -1,0 +1,16 @@
+{
+  "siteA" :
+    {
+      "nba" :
+        {
+          "home_url" : "bovada.lv/sports/basketball/nba",
+          "tab_title" : "title",
+          "limit_type" : "risk",
+          "bet_limit" : 40,
+          "prop_types" :
+            {
+              "BET_TYPE" : "REGEX_PATTERN"
+            }
+        }
+    }
+}

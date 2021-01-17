@@ -1,0 +1,8 @@
+{
+  "nba" : {
+    "JJ Redick" : {"siteA" : "JJ.Redick", "siteB" : "J.J. Redick"},
+    "J.J. Redick" : {"siteA" : "JJ.Redick"},
+    "C.J. McCollum" : {"siteA" : "CJ.McCollum", "siteB" : "C.J. McCollum"},
+    "CJ McCollum" : {"siteA" : "CJ.McCollum", "siteB" : "C.J. McCollum"},
+  }
+}
