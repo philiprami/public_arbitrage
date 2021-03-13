@@ -18,8 +18,8 @@ from selenium.common import exceptions
 from email.message import EmailMessage
 
 from site_A import SiteA
-from bovada import Bovada
-from betvictor import BetVictor
+from site_B import SiteB
+from site_C import SiteC
 
 
 ### UTILS #####################################################################
